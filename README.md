@@ -1,2 +1,2 @@
 # arduino-snake
-Arduino + Nokia5110 + Joystick + Snack
+Arduino + Nokia5110 + Joystick + Snake
